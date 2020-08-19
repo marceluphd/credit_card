@@ -1,8 +1,24 @@
 {
   "name": "desafio",
+  "author": "Roberto Souza",
+  "license": "MIT",
+  "version": "1.0.0",
   "scripts": {
     "start": "nodemon app.js"
   },
+  "description": "Projeto Cartão de Crédito",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souzajr/credit_card"
+  },
+  "bugs": {
+    "url": "https://github.com/souzajr/credit_card/issues"
+  },
+  "keywords": [
+    "Express",
+    "Node.JS",
+    "MongoDB"
+  ],
   "devDependencies": {
     "eslint": "^6.5.1",
     "eslint-config-airbnb": "^18.0.1",
