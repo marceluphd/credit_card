@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com o objetivo de demonstrar meus conhecimentos na
 
 -----------------
 
-### Rotas
+## Rotas
 O sistema utiliza autenticação com JWT, por isso é necessário realizar um cadastro e, em rotas protegidas, utilizar o token no header (Authorization) da requisição.<br/>
 Utilize JSON como Content-Type do header para enviar e receber informações.
 
